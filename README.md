@@ -1,4 +1,6 @@
 <ThisCharacterisCheap!>
+<h1>Dawg this character is Fucking Cheap</h1>
+
 ![akuma](cheapcharacter4.jpg)
 <html>
 <head>
@@ -6,7 +8,6 @@
 </head>
 <body>
 
-<h1>Dawg this character is Fucking Cheap</h1>
 
 
 <p>In shadows deep, a soul does creep
