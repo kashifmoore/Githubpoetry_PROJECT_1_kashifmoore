@@ -1,4 +1,5 @@
 <ThisCharacterisCheap!>
+![akuma](cheapcharacter4.jpg)
 <html>
 <head>
 <link rel="stylesheet" href="mystyle.css">
@@ -6,6 +7,7 @@
 <body>
 
 <h1>Dawg this character is Fucking Cheap</h1>
+
 
 <p>In shadows deep, a soul does creep
 Beneath the mask of deceit does it weep
