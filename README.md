@@ -13,7 +13,9 @@
 Beneath the mask of deceit does it weep
 A heart so numb, consumed by greed
 A cheap facade, where no light can lead
-![Unknown] (Unknown.jpeg)
+  
+![Unknown](Unknown.jpeg)
+
 Yet with a flicker in the dark
 A spark of hope, a distant spark
 May pierce the veil, may mend the seam
