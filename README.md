@@ -21,6 +21,8 @@ A spark of hope, a distant spark
 May pierce the veil, may mend the seam
 And redeem the broken dream
 
+![Adventuretime](Cheapcharacter.jpg)
+
 For even in the depths of night
 There's still a chance to make things right
 To rise above the darkness deep
